@@ -2,7 +2,7 @@
 
 * [knowledge](README.md)
 
-## test
+## Learn
 
-* [Untitled](test/untitled.md)
+* [Untitled](learn/untitled.md)
 
